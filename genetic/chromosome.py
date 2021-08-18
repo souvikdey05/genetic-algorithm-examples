@@ -3,9 +3,9 @@ from abc import ABC, abstractmethod
 class Chromosome(ABC):
     r""" The Base Chromosome class     
     """
-    def __init__(self, genotypes):
-        self._genotypes = genotypes
-        self.fitness_score = 0.0
+    def __init__(self, genotypes, fitness_score=0.0):
+        self._genotypes = genotypes # list of genotypes for this chromosome
+        self.fitness_score = fitness_score   # fitness value of the chromosome
 
     @abstractmethod
     def crossover(self, partner):

@@ -4,6 +4,6 @@ from typing import List
 class Fitness(ABC):
     r""" The Base Fitness class
     """
-    def __init__(self):
-        pass
+    def __init__(self, target):
+        self._target = target
         

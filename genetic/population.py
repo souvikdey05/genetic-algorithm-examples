@@ -6,9 +6,9 @@ class Population(ABC):
     r""" The Base Population class
     """
     def __init__(self, chromosomes, mutation_rate):
-        self._chromosomes = chromosomes
-        self._generations = 0
-        self._mutation_rate = mutation_rate
+        self._chromosomes = chromosomes     # list of chromosomes in the current population
+        self._generations = 0               # generation number
+        self._mutation_rate = mutation_rate # mutation rate
 
     @abstractmethod
     def run(self):
