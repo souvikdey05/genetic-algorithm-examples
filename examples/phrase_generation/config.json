@@ -1,6 +1,6 @@
 {
-    "target_phrase" : "coding is bad",
+    "target_phrase" : "coding",
     "population_size": 20,
     "max_generations" : null,
-    "mutation_rate" : 0.0
+    "mutation_rate" : 0.1
 }

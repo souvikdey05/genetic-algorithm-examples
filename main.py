@@ -10,10 +10,13 @@ def main() -> None:
     parser.add_argument('--config-file', '-f', type=str, 
                         required=True, help='Config file')
 
+    parser.add_argument('--output-path', '-o', type=str, 
+                        required=True, help='Path to save the monitoring log files.')
+
     options = parser.parse_args()
 
     ex_to_run = examples.__dict__[options.example]
-    ex_to_run.main(options.config_file)
+    ex_to_run.main(options.config_file, options.output_path)
 
 
 if __name__ == "__main__":

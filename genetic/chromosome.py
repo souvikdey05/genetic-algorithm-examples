@@ -6,6 +6,8 @@ class Chromosome(ABC):
     def __init__(self, genotypes, fitness_score=0.0):
         self._genotypes = genotypes # list of genotypes for this chromosome
         self.fitness_score = fitness_score   # fitness value of the chromosome
+        self.normalized_fitness_score = 0.0   # normalized fitness value of the chromosome
+        self._chromosome_size = len(self._genotypes) # size of the chromosome
 
     @abstractmethod
     def crossover(self, partner):
@@ -22,3 +24,4 @@ class Chromosome(ABC):
         f"""Calculates the fitness score of this Chromosome based
         on the fitness type"""
         pass
+    

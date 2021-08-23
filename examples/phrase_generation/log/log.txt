@@ -1,0 +1,2089 @@
+Phrase Generation Logger - INFO - Logger created
+Phrase Generation Logger - INFO - Target Phrase = coding
+Phrase Generation Logger - INFO - Population size = 20
+Phrase Generation Logger - INFO - Mutation Rate = 0.1
+Phrase Generation Logger - INFO - Generating first population
+Phrase Generation Logger - INFO - Perform run
+Phrase Generation Logger - INFO - Generation = 1
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = kcaqhw, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = bsjgrc, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = vqzhgu, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = dxvlya, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = nbjzlm, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = ssikxt, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = ceoksv, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = fivbva, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = fnfkeo, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = tmejiv, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = tifjhn, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = pukvkt, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = ofjrrm, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = uyjscn, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = ihewei, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = yxaprv, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = amzvan, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = xbcqme, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = eejvoh, fitness score = 0.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = kowbnt, 
+	fitness_score = 2.0, 
+	normalized_fitness_score = 0.6676666666666666
+Phrase Generation Logger - INFO - Best fitness score = 2.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 2
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = dxvlya, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = konbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbsv, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = oowbyt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kotkeo, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = aowbnl, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = howbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = uowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = wowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = ssikxt, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = kowksv, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = ceoksv, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kooksv, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = konbnt, 
+	fitness_score = 2.0, 
+	normalized_fitness_score = 0.06766666666666667
+Phrase Generation Logger - INFO - Best fitness score = 2.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 3
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = koxbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = aowanc, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = koojst, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kdwbnt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kotkeo, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = aowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = konbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnh, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = anwbnt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kowbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = uowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnv, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = oowbyt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = honbnh, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = koxbnt, 
+	fitness_score = 2.0, 
+	normalized_fitness_score = 0.05814285714285714
+Phrase Generation Logger - INFO - Best fitness score = 2.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 4
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = koobnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = honbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnz, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = vowbst, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = aowbny, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = uowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kosbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kohant, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = sonbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = konbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kdwbnt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = aowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = aowadt, fitness score = 1.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = koobnt, 
+	fitness_score = 2.0, 
+	normalized_fitness_score = 0.05505405405405406
+Phrase Generation Logger - INFO - Best fitness score = 2.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 5
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = vonbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kokbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kewbnt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kowbit, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = sokbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kpwbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kovbnz, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kzwbmt, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = kowitm, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = konbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbln, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = korbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kosbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = aowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbkt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = howbst, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = sowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kosbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = vonbnt, 
+	fitness_score = 2.0, 
+	normalized_fitness_score = 0.0635
+Phrase Generation Logger - INFO - Best fitness score = 2.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 6
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = sokbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = krsbnt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kosbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = konbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kovbzn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = aowbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = howbsn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kpwbnt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yowbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowitm, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kosbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = vosbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = sowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = htsbnt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = vokbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowitn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kokbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbln, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = donbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = afwbnt, fitness score = 1.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = sokbnt, 
+	fitness_score = 2.0, 
+	normalized_fitness_score = 0.06160606060606061
+Phrase Generation Logger - INFO - Best fitness score = 2.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 7
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = kosbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = towbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = zowbnd, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = gonbsz, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yowbrn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = sokbnh, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = yowbkn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = vosbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = htsbnn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kowine, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = assbnt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yowbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = koabnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = konbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = krsbbt, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = kowitm, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = howbxt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = aowjnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kosbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = htsbne, fitness score = 1.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = kowine, 
+	fitness_score = 3.0, 
+	normalized_fitness_score = 0.09475
+Phrase Generation Logger - INFO - Best fitness score = 3.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 8
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = kosbon, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yowbrt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = htsbnn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = konlsz, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = htkbkn, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = yowbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kwwitm, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = aowjnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = htsbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = gofbsz, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = aowjee, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = zowjnh, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = yowbrn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yowbre, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kospnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = howpxt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = zoabnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = towbrt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = ponbsz, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = ttsbne, fitness score = 1.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = yowbne, 
+	fitness_score = 2.0, 
+	normalized_fitness_score = 0.08433333333333333
+Phrase Generation Logger - INFO - Best fitness score = 2.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 9
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = htsbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = powbre, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = towtee, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = htsbnh, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yowjee, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kosbon, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kosprz, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yowjnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = zoqbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = howonn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = htsbnn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = dowbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kospnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = zospnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = apwjee, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = kosbon, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yoybbt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yowjbe, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = zowjnh, fitness score = 2.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = yowjnn, 
+	fitness_score = 2.0, 
+	normalized_fitness_score = 0.07507407407407407
+Phrase Generation Logger - INFO - Best fitness score = 2.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 10
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = wowjnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = yuzbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kowbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = yowjbe, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yodpet, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = yofpvt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = howonn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = yoybse, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = ztsbee, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = zowonn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = zospne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = cowbnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = htsbnt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yoybbn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yowlre, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = zosjnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = vowwnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kaspnt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = etsbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yhwbnt, fitness score = 1.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = cowbnt, 
+	fitness_score = 3.0, 
+	normalized_fitness_score = 0.10444827586206896
+Phrase Generation Logger - INFO - Best fitness score = 3.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 11
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = yoyjnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = yodpet, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = zosbnj, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = zosjot, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = vowwnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = etsbnq, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yodbne, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = yodpct, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = zoswne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = wowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = yuwpet, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = cowpne, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = hosbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = ktsbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yowonn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = yovpvt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = zowoqn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yuzbne, fitness score = 1.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = yodbne, 
+	fitness_score = 3.0, 
+	normalized_fitness_score = 0.08923529411764707
+Phrase Generation Logger - INFO - Best fitness score = 3.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 12
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = vowwnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = ktewnn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = mosbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kowbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mowbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = zocrne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = xowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = ytsbnj, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = hssbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = ejwbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yoyjnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = vowwxn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yodpne, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = yuzbnj, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yoapct, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = ydyjnt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yuwbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = josbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = vowwne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = zodpct, fitness score = 2.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = yodpne, 
+	fitness_score = 3.0, 
+	normalized_fitness_score = 0.09475
+Phrase Generation Logger - INFO - Best fitness score = 3.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 13
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = ktsbnj, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kosbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = moxsne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = vssbie, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = vowjnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mocrne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = toapce, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yuzune, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yosbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = ytsbpe, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = xdwant, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = ytsbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yoyjnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mssbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = vowbtt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = xowwne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = vowbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mowbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = xowbnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = yodpnt, fitness score = 3.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = yodpnt, 
+	fitness_score = 3.0, 
+	normalized_fitness_score = 0.101
+Phrase Generation Logger - INFO - Best fitness score = 3.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 14
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = yusbnt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = mowbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kosbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = yodpnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = hocenj, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mssbnt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = vowbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = edwang, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = moxsnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = yodpne, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = ytwjnn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = xodpnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = yodpnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = xowwnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = yysbnn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kopbnv, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = oowjnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mocsnj, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = tocrkb, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = moxsnu, fitness score = 2.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = yodpnt, 
+	fitness_score = 3.0, 
+	normalized_fitness_score = 0.07792307692307693
+Phrase Generation Logger - INFO - Best fitness score = 3.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 15
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = edwanj, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yyesnn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = tocwnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = vodpnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mysbnn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = hosant, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mocsnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = losbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mousgg, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = yodpnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = kosbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = xopbnv, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = xodpnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = hocenj, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = oowenj, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = moxsnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = ytwinn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = ednang, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = vosbnv, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = ytwqnj, fitness score = 1.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = vodpnt, 
+	fitness_score = 3.0, 
+	normalized_fitness_score = 0.07792307692307693
+Phrase Generation Logger - INFO - Best fitness score = 3.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 16
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = edsbnn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = moxsvn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = mosbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mowing, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = yodant, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mousgg, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = ednpnt, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = xosant, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = tehwnn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = yohang, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = xopbnm, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = ytfbnv, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = mouehj, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = mgcbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = hodpnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = yodpnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = ytsbnv, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = hogfnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = hocbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mocsnt, fitness score = 2.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = mowing, 
+	fitness_score = 4.0, 
+	normalized_fitness_score = 0.10626315789473684
+Phrase Generation Logger - INFO - Best fitness score = 4.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 17
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = mosbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mosant, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = iocbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mocant, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mosbnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mehwnn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = igcbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = mouing, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = mfdant, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mgcbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = hoddnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = howing, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = ycdant, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = fosbnb, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mosbje, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = hodant, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = hogmnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = adsbnn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = moubnn, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = yohang, fitness score = 3.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = mouing, 
+	fitness_score = 4.0, 
+	normalized_fitness_score = 0.09623809523809523
+Phrase Generation Logger - INFO - Best fitness score = 4.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 18
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = dcdsnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = gghang, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = hihang, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = moubne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = ycdaat, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = mgcbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = mehwnn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = mohang, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mouing, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = fosbnb, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mosart, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = noddnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = howifg, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = ifdant, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = igcbee, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = mouing, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = mucbng, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = foddnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mosbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = houino, fitness score = 3.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = mouing, 
+	fitness_score = 4.0, 
+	normalized_fitness_score = 0.09402325581395349
+Phrase Generation Logger - INFO - Best fitness score = 4.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 19
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = ifdant, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = fkcbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = ggpang, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mosknb, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = moubne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = qxhpng, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mohang, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = hihang, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = foding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = dcuing, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = fasbnb, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = nooiji, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mssbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = jouing, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = mosbne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = moukng, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = muhbnr, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = foddnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mksarj, fitness score = 0.0
+Phrase Generation Logger - INFO - chromosome = hihang, fitness score = 2.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = foding, 
+	fitness_score = 5.0, 
+	normalized_fitness_score = 0.11727906976744186
+Phrase Generation Logger - INFO - Best fitness score = 5.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 20
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = moskmu, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = dcuing, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mohapn, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = nooang, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mkukng, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = moskne, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = auhbne, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = ggdani, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = ioddnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = fkcbnh, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = mjufng, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mowang, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = foding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = fgddnt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = hihang, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = moukng, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mouknb, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = foddnb, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = qxdpdg, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = fasbng, fitness score = 2.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = foding, 
+	fitness_score = 5.0, 
+	normalized_fitness_score = 0.1121111111111111
+Phrase Generation Logger - INFO - Best fitness score = 5.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 21
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = dcumng, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = moddnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mkukng, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mkukng, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = zoskng, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = moskng, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = garing, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = foding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = mohknt, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = mouknb, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mkzing, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = lyoong, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = foling, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = nkulng, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = qxdpde, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = nxoanl, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = foding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = fouing, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = hxdpdj, fitness score = 1.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = foding, 
+	fitness_score = 5.0, 
+	normalized_fitness_score = 0.09190909090909091
+Phrase Generation Logger - INFO - Best fitness score = 5.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 22
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = fkulng, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = foding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = foding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = mkukng, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = lyoong, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = nksang, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mrding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = moskng, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = fodizg, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = hamind, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mwukng, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = lyoong, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = fbdang, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = hxdpdm, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = dcskng, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = foding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = fohknb, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = fodcnt, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = goskng, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = moving, fitness score = 4.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = foding, 
+	fitness_score = 5.0, 
+	normalized_fitness_score = 0.08720689655172414
+Phrase Generation Logger - INFO - Best fitness score = 5.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 23
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = foding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = mrding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = meding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = hamind, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = hksang, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = goding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = fbdaog, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = fowing, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = lyoizg, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = foskng, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = hxdizg, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = fodung, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = fbding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = foding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = lyooqg, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = fxdins, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = hamind, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mlvind, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = fydcng, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = foding, 
+	fitness_score = 5.0, 
+	normalized_fitness_score = 0.07792307692307693
+Phrase Generation Logger - INFO - Best fitness score = 5.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 24
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = mlving, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = fbding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = fodung, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = meding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = fodung, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = goding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = mlwizd, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = mrdinh, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = goding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = fydaqz, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = hxding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = mlving, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = hakinr, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = bxdizg, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = sowing, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = foding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = hxdijg, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mrding, fitness score = 4.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = moding, 
+	fitness_score = 5.0, 
+	normalized_fitness_score = 0.07044444444444445
+Phrase Generation Logger - INFO - Best fitness score = 5.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 25
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = zlding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = mlwizd, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = mlving, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = hxding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = mjging, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = meoing, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = brdirh, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = godiog, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = hedsnv, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = fbdubg, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = meding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = beding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = mgdinh, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = fodunf, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = koding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = bxding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = mrdinh, fitness score = 3.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = moding, 
+	fitness_score = 5.0, 
+	normalized_fitness_score = 0.07346376811594203
+Phrase Generation Logger - INFO - Best fitness score = 5.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 26
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = mrding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = mgdino, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = madirh, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kmding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = moking, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = meding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = mjgigg, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mgdinw, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mgdubg, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = goding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = hedsng, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = medsna, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = kodinh, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = bxding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = meditg, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mrdinh, fitness score = 3.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = moding, 
+	fitness_score = 5.0, 
+	normalized_fitness_score = 0.07044444444444445
+Phrase Generation Logger - INFO - Best fitness score = 5.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 27
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = modubg, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mokino, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mjging, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mggigg, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = madirh, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mgdiuw, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = mrding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = modinv, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = godiug, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = madirh, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mrding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = bxaing, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = goking, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = goding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = mldxng, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mading, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = bxding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = bxding, fitness score = 4.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = moding, 
+	fitness_score = 5.0, 
+	normalized_fitness_score = 0.07242857142857143
+Phrase Generation Logger - INFO - Best fitness score = 5.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 28
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = mggiwo, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = bkding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = rodung, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = koking, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = wrdkug, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mrdinv, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = madirh, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = mldxng, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = goding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = modiug, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = molidg, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mrdihg, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mjfing, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mjging, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mgdiuw, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = modirh, fitness score = 3.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = moding, 
+	fitness_score = 5.0, 
+	normalized_fitness_score = 0.07346376811594203
+Phrase Generation Logger - INFO - Best fitness score = 5.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 29
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = mrding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = godino, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = modiry, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mggiwo, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = kokinv, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = wrdduv, fitness score = 1.0
+Phrase Generation Logger - INFO - chromosome = moking, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = roding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = mgdiui, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = godrng, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = mrding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = modirh, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mldinv, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mooing, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = qadirh, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = moking, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = koking, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = moding, 
+	fitness_score = 5.0, 
+	normalized_fitness_score = 0.07242857142857143
+Phrase Generation Logger - INFO - Best fitness score = 5.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 30
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = cldrng, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = modivy, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = goking, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = modirh, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = moking, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = mxking, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = koknng, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = kokino, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mldong, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = jrding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = loding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = modirg, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = kokinv, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = ookiag, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = mbdino, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = wrding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = godrnf, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = xrding, fitness score = 4.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = loding, 
+	fitness_score = 5.0, 
+	normalized_fitness_score = 0.0694931506849315
+Phrase Generation Logger - INFO - Best fitness score = 5.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Generation = 31
+Phrase Generation Logger - INFO - Calculating fitness score ->
+Phrase Generation Logger - INFO - chromosome = coding, fitness score = 6.0
+Phrase Generation Logger - INFO - chromosome = wrding, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = eoding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = mkdslg, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = modirg, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = loding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = modirg, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = koding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = ookiag, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mrdong, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = xrdirg, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mxking, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = khkino, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = gokify, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = modivg, fitness score = 4.0
+Phrase Generation Logger - INFO - chromosome = moding, fitness score = 5.0
+Phrase Generation Logger - INFO - chromosome = godrnf, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = mbdirh, fitness score = 2.0
+Phrase Generation Logger - INFO - chromosome = krdong, fitness score = 3.0
+Phrase Generation Logger - INFO - chromosome = xnding, fitness score = 4.0
+Phrase Generation Logger - INFO - Best Chromosome = Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = coding, 
+	fitness_score = 6.0, 
+	normalized_fitness_score = 0.08433333333333333
+Phrase Generation Logger - INFO - Best fitness score = 6.0
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Performing crossover for chromosome
+Phrase Generation Logger - INFO - Performing mutation at a rate 0.1
+Phrase Generation Logger - INFO - Solution found
+Phrase Generation Logger - INFO - Solution: Chromosome_PhraseGeneration(Chromosome) 
+ 	genotypes = coding, 
+	fitness_score = 6.0, 
+	normalized_fitness_score = 0.08433333333333333
+Phrase Generation Logger - INFO - Generation #: 32
