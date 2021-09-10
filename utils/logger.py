@@ -7,7 +7,7 @@ def create_logger(name, log_file=None):
     global _logger
     # Create a custom logger
     _logger = logging.getLogger(name)
-    _logger.setLevel(logging.DEBUG)
+    _logger.setLevel(logging.INFO)
 
     # Create handlers
     c_handler = logging.StreamHandler()

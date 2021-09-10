@@ -1,6 +1,7 @@
 {
-    "target_phrase" : "coding",
-    "population_size": 20,
-    "max_generations" : null,
-    "mutation_rate" : 0.1
+    "target_phrase" : "genetic",
+    "population_size": 100,
+    "max_generations" : 500,
+    "mutation_rate" : 0.1,
+    "num_of_iterations" : 5
 }

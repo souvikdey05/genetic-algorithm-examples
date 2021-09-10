@@ -15,7 +15,7 @@ class Chromosome_PhraseGeneration(Chromosome):
 
     def crossover(self, partner):
         r"""Performs crossover between two chromosomes"""
-        self.logger.info("Performing crossover for chromosome")
+        self.logger.debug("Performing crossover for chromosome")
         chromosome_child = None
 
         # get random half from self and the other half from partner
@@ -28,9 +28,9 @@ class Chromosome_PhraseGeneration(Chromosome):
 
     def mutate(self, mutation_rate):
         r"""Performs mutation based on mutation rate"""
-        self.logger.info(f"Performing mutation at a rate {mutation_rate}")
+        self.logger.debug(f"Performing mutation at a rate {mutation_rate}")
 
-        string.ascii_letters = "abcdefghijklmnopqrstuvwxyz"  # Only lower case letters for now
+        string.ascii_letters = "abcdefghijklmnopqrstuvwxyz "  # Only lower case letters for now
 
         # pick a unifirm random number and mutate if its before the mutation rate
         for i in range(self._chromosome_size):

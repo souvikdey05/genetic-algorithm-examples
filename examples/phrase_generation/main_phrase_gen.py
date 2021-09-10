@@ -7,14 +7,14 @@ from .population import Population_PhraseGeneration
 class Phrase_Generation:
     r"""Main class for Phrase generation example"""
 
-    def __init__(self, population_size=20, mutation_rate=0.0, target_phrase=None, max_generations=None):
+    def __init__(self, population_size=20, mutation_rate=0.0, target_phrase=None, max_generations=None, score_file=None):
         
         self._population_size = population_size
         self._mutation_rate = mutation_rate
         self._target_phrase = target_phrase
         self._max_generations = max_generations
         
-        self._population = Population_PhraseGeneration(self._population_size, self._mutation_rate, target_phrase, self._max_generations)
+        self._population = Population_PhraseGeneration(self._population_size, self._mutation_rate, target_phrase, self._max_generations, score_file)
         
 
     def run(self):
@@ -25,11 +25,18 @@ class Phrase_Generation:
     def main(config_file, output_path):
         config = json.load(open(config_file))
 
-        if output_path is not None and os.path.exists(output_path):
-            os.remove(output_path)
+        log_file = os.path.join(output_path, "log.txt")
+        if os.path.exists(log_file):
+            os.remove(log_file)
 
-        create_logger("Phrase Generation Logger", output_path)
+        create_logger("Phrase Generation Logger", log_file)
         logger = get_logger()
+
+        # delete all the files from scores folder
+        scores_path = os.path.join(output_path, "scores")
+        filelist = [ f for f in os.listdir(scores_path)]
+        for f in filelist:
+            os.remove(os.path.join(scores_path, f))
 
         # Some validity checks
         target_phrase = None
@@ -53,11 +60,22 @@ class Phrase_Generation:
             mutation_rate = config["mutation_rate"]
         logger.info(f"Mutation Rate = {mutation_rate}")
 
-        max_generations = None
+        max_generations = 5000
         if "max_generations" in config and config["max_generations"] is not None:
             max_generations = config["max_generations"]
-            logger.info(f"Max Generations Possible = {max_generations}")
+        logger.info(f"Max Generations Possible = {max_generations}")
 
-        obj = Phrase_Generation(population_size, mutation_rate, target_phrase, max_generations)
-        obj.run()
+        num_of_iterations = 1
+        if "num_of_iterations" in config and config["num_of_iterations"] is not None:
+            num_of_iterations = config["num_of_iterations"]
+        logger.info(f"Number of Iterations = {num_of_iterations}")
+
+
+        for itr in range(num_of_iterations):
+            logger.info(f"Run Number = {itr + 1} ->")
+            logger.info(f"------------------------------")
+            
+            scores_file = os.path.join(scores_path, f"score_{itr + 1}.csv")
+            obj = Phrase_Generation(population_size, mutation_rate, target_phrase, max_generations, score_file=scores_file)
+            obj.run()
         

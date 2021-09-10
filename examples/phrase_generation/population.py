@@ -1,6 +1,7 @@
 import random
 import string
 from utils.logger import get_logger
+import csv
 
 from genetic.population import Population
 
@@ -12,10 +13,11 @@ class Population_PhraseGeneration(Population):
     r"""Population class for phrase generation example"""
     logger = None
 
-    def __init__(self, population_size,  mutation_rate, target_phrase, max_generations=None):
+    def __init__(self, population_size,  mutation_rate, target_phrase, max_generations=None, score_file=None):
         super().__init__(population_size, mutation_rate)
         self._target_phrase = target_phrase  # the target phrase
         self._max_generations = max_generations # The max number of generations to run
+        self._score_file = score_file
         self._fitness = Fitness_PhraseGeneration(target_phrase)  # the fitness object
         self._eps = 0.001  # a small value to give some probability to fitness of each chromosome incase the fitness is zero
         self._solution_found = False    # flag to indicate solution is found
@@ -28,7 +30,7 @@ class Population_PhraseGeneration(Population):
         r"""method to generate the initial population"""
         self.logger.info("Generating first population")
 
-        string.ascii_letters = "abcdefghijklmnopqrstuvwxyz"  # Only lower case letters for now
+        string.ascii_letters = "abcdefghijklmnopqrstuvwxyz "  # Only lower case letters for now
         # generate multiple chromosomes for a population
         self._chromosomes = []
         for p in range(self._population_size):
@@ -63,7 +65,6 @@ class Population_PhraseGeneration(Population):
     def _increment_generation(self):
         r"""Method to increment generation count"""
         self._generations = self._generations + 1
-
 
     def _calculate_fitness(self):
         r"""Calculate the fitness of each chromosome in the population"""
@@ -104,9 +105,24 @@ class Population_PhraseGeneration(Population):
                 return None
 
     
+    def _write_scores(self, scores):
+        r"""Method to write the generation number and scores in a file"""
+        if self._score_file is not None:
+            with open(self._score_file, "w", newline='') as file:
+                writer = csv.writer(file)
+
+                # write the header
+                writer.writerow(['Generation', 'Best Fitness Score', 'Best Chromosome'])
+
+                for s in scores:
+                    writer.writerow(s)
+
+    
     def run(self):
         r"""Implementation of run method"""
         self.logger.info("Perform run")
+
+        scores = []     # list of (generation #, best fitness score)
 
         while not self._solution_found:
             self.logger.info(f"Generation = {self._generations}")
@@ -116,6 +132,7 @@ class Population_PhraseGeneration(Population):
             
             self.logger.info(f"Best Chromosome = {self._best_chromosome}")
             self.logger.info(f"Best fitness score = {self._best_fitness_score}")
+            scores.append([self._generations, self._best_fitness_score, self._best_chromosome._short_repr()])
 
             self._refill_population()
 
@@ -134,3 +151,5 @@ class Population_PhraseGeneration(Population):
 
         else:
             self.logger.info("Solution not found")
+
+        self._write_scores(scores)
