@@ -26,11 +26,33 @@ class Chromosome_PhraseGeneration(Chromosome):
 
         return chromosome_child
 
+    def crossover_v2(self, partner, target):
+        r"""Performs crossover between two chromosomes.
+            Strategy: copy the gene which have the correct values from both the parents. The remaining gene are filled with random values"""
+        self.logger.debug("Performing crossover for chromosome")
+        chromosome_child = None
+
+        genotypes = ['Junk' for _ in range(self._chromosome_size)] ## creating a placeholder for gene with all junk
+        for i in range(self._chromosome_size):
+            if self._genotypes[i].decoded_value == target[i]:
+                geno = self._genotypes[i]
+            elif partner._genotypes[i].decoded_value == target[i]:
+                geno = partner._genotypes[i]
+            else:
+                ## fill with some random character
+                string.ascii_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz ,.'"
+                geno = Genotype_PhraseGeneration(random.choice(string.ascii_letters))
+            genotypes[i] = geno
+
+        chromosome_child = Chromosome_PhraseGeneration(genotypes)
+
+        return chromosome_child
+
     def mutate(self, mutation_rate):
         r"""Performs mutation based on mutation rate"""
         self.logger.debug(f"Performing mutation at a rate {mutation_rate}")
 
-        string.ascii_letters = "abcdefghijklmnopqrstuvwxyz "  # Only lower case letters for now
+        string.ascii_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz ,.'"
 
         # pick a unifirm random number and mutate if its before the mutation rate
         for i in range(self._chromosome_size):

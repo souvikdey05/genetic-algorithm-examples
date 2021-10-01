@@ -30,7 +30,7 @@ class Population_PhraseGeneration(Population):
         r"""method to generate the initial population"""
         self.logger.info("Generating first population")
 
-        string.ascii_letters = "abcdefghijklmnopqrstuvwxyz "  # Only lower case letters for now
+        string.ascii_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz ,.'"
         # generate multiple chromosomes for a population
         self._chromosomes = []
         for p in range(self._population_size):
@@ -54,7 +54,8 @@ class Population_PhraseGeneration(Population):
         for p in range(self._population_size):
             chromosome_parent_A = self._natural_selection()
             chromosome_parent_B = self._natural_selection()
-            chromosome_child = chromosome_parent_A.crossover(chromosome_parent_B)
+            # chromosome_child = chromosome_parent_A.crossover(chromosome_parent_B)
+            chromosome_child = chromosome_parent_A.crossover_v2(chromosome_parent_B, self._target_phrase)
             chromosome_child.mutate(self._mutation_rate)
             chromosomes.append(chromosome_child)
 
