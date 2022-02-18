@@ -1,7 +1,0 @@
-{
-    "target_phrase" : "The Genetic Algorithms are evolutionary optimization procedures, inspired by Darwin's theory of evolution, based on the principles of natural selection and genetics. Holland was probably the first to use the crossover and recombination, mutation, and selection in the study of adaptive and artificial systems.",
-    "population_size": 50,
-    "max_generations" : 200,
-    "mutation_rate" : 0.0,
-    "num_of_iterations" : 5
-}
