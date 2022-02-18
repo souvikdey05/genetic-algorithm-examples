@@ -1,3 +1,3 @@
-from .phrase_generation.main_phrase_gen import Phrase_Generation
+from .tsp.main_tsp import TSP
 
-__all__ = ["Phrase_Generation"]
+__all__ = ['TSP']

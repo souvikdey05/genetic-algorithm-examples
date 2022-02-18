@@ -1,3 +1,3 @@
 # genetic-algorithm-examples
 
-## Travelling Saleman Problem
+## Traveling Saleman Problem

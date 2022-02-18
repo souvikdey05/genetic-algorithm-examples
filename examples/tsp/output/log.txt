@@ -1,0 +1,6 @@
+Travelling Salesman Problem Logger - INFO - Logger created
+Travelling Salesman Problem Logger - INFO - Num of Cities = 5
+Travelling Salesman Problem Logger - INFO - Population size = 50
+Travelling Salesman Problem Logger - INFO - Mutation Rate = 0.0
+Travelling Salesman Problem Logger - INFO - Max Generations Possible = 200
+Travelling Salesman Problem Logger - INFO - Number of Iterations = 5

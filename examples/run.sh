@@ -1,3 +1,3 @@
-python main.py -e 'Phrase_Generation' -f 'examples/phrase_generation/config.json' -o 'examples/phrase_generation/output/'
+python main.py -e 'TSP' -f 'examples/tsp/config.json' -o 'examples/tsp/output/'
 
 python plot.py -s 'examples/phrase_generation/output/scores'

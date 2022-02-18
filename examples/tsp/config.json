@@ -1,0 +1,7 @@
+{
+    "num_of_cities": 5,
+    "population_size": 50,
+    "max_generations" : 200,
+    "mutation_rate" : 0.0,
+    "num_of_iterations" : 5
+}
