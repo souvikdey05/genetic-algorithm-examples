@@ -8,6 +8,8 @@ from pathlib import Path
 import random
 from utils.logger import create_logger, get_logger
 from .population import Population_TSP
+from math import inf
+import csv
 
 class TSP:
     r"""Main class for TSP example"""
@@ -37,12 +39,24 @@ class TSP:
 
         return points
 
-    
+    def _write_scores(self, scores, scores_file=None):
+        r"""Method to write the generation number and scores in a file"""
+        if scores_file is not None:
+            with open(scores_file, "w", newline='') as file:
+                writer = csv.writer(file)
+
+                # write the header
+                writer.writerow(['Generation', 'Best Fitness Score', 'Best Chromosome'])
+
+                for s in scores:
+                    writer.writerow(s)
+
     def run(self):
         r"""Method to run the generations and solve the problem"""
         black = (0, 0, 0)
         white = (255, 255, 255)
         green = (0, 255, 24)
+        red = (255, 0, 0)
 
         width = 1000
         height = 1000
@@ -60,34 +74,61 @@ class TSP:
         points = self._generate_points(self._num_of_cities, xrange_min, xrange_max, yrange_min, yrange_max)
         starting_point = 0
         
-        for itr in tqdm(range(self._max_generations), desc="Iterations"):
+        for itr in tqdm(range(self._num_of_iterations), desc="Iterations"):
             self.logger.info(f"Run Number = {itr + 1} ->")
             self.logger.info(f"------------------------------")
             
-            scores_file = str(Path(self._scores_path) / f"score_{itr + 1}.csv")
-
-            self._population = Population_TSP(points, starting_point, self._population_size, self._mutation_rate, scores_file)
-
-            screen.fill(black)
-            # draw lines and points
-            for n in range(len(points)):
-                pygame.draw.circle(screen, white, points[n], 10)
-
-
-            for gen in tqdm(range(self._max_generations), desc="Generation"):
+            self._population = Population_TSP(points, starting_point, self._population_size, self._mutation_rate)
                 
-                self._population.run()
+            scores = []     # list of (generation #, best fitness score)
 
-                for event in pygame.event.get():
-                    if event.type == pygame.QUIT:
-                        run = False
+            best_generation = 0
+            best_overall_distance = inf
+            best_overall_fitness_score = 0.0
+            best_overall_chromosome = None
 
+            for generation in tqdm(range(1, self._max_generations + 1), desc="Generation"):
+                self.logger.info(f"Generation = {generation}")
+
+                # calculate the fitness of each chromosome
+                self.logger.info("Calculating fitness score ->")
+                self._population.calculate_fitness()
                 
+                self.logger.info(f"Best {generation} genaration Chromosome = {self._population._best_generation_chromosome}")
+                self.logger.info(f"Best {generation} genaration Distance = {self._population._best_generation_distance}")
+                self.logger.info(f"Best {generation} genaration Fitness score = {self._population._best_generation_fitness_score}")
+                scores.append([generation, self._population._best_generation_distance, self._population._best_generation_fitness_score, 
+                                self._population._best_generation_chromosome._short_repr()])
 
+                self._population.refill_population()
+
+                # if the current generation distance found is better than all other
+                if self._population._best_generation_distance < best_overall_distance:
+                    best_overall_distance = self._population._best_generation_distance
+                    best_overall_fitness_score = self._population._best_generation_fitness_score
+                    best_overall_chromosome = self._population._best_generation_chromosome
+                    best_generation = generation
+
+                generation_index_order = self._population._best_generation_chromosome._genotypes
+                best_index_order = best_overall_chromosome._genotypes
+                # draw the lines on the screen
+                screen.fill(black)
+                for n in range(len(points)):
+                    pygame.draw.circle(screen, white, points[n], 10)
                 for m in range(len(points) - 1):
-                    pygame.draw.line(screen, green, points[m], points[m+1], 2)
+                    pygame.draw.line(screen, green, points[generation_index_order[m].get_value()], points[generation_index_order[m+1].get_value()], 2)
+                    pygame.draw.line(screen, red, points[best_index_order[m].get_value()], points[best_index_order[m+1].get_value()], 5)
+                    pygame.display.update()           
 
-                pygame.display.update()           
+            self.logger.info("Best run ----->")
+            self.logger.info(f"Generation #: {best_generation}")
+            self.logger.info(f"Solution: {best_overall_chromosome}")
+            self.logger.info(f"Distance: {best_overall_distance}")
+            self.logger.info(f"Fitness Score: {best_overall_fitness_score}")
+            
+            if self._scores_path is not None:
+                scores_file = str(Path(self._scores_path) / f"score_{itr + 1}.csv")
+                self._write_scores(scores, scores_file)
 
         
 

@@ -24,6 +24,7 @@ def main() -> None:
     output_path = str(output_path)
 
     ex_to_run = examples.__dict__[options.example]
+
     ex_to_run.main(config_file, output_path)
 
 
