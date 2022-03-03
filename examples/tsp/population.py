@@ -75,12 +75,14 @@ class Population_TSP(Population):
         chromosomes = []
         
         for p in range(self._population_size):
-            # chromosome_parent_A = self._natural_selection()
-            # chromosome_parent_B = self._natural_selection()
-            # chromosome_child = chromosome_parent_A.crossover(chromosome_parent_B)
+            chromosome_parent_A = self._natural_selection()
+            chromosome_parent_B = self._natural_selection()
+            chromosome_child = chromosome_parent_A.crossover(chromosome_parent_B)
             # chromosome_child = chromosome_parent_A.crossover_v2(chromosome_parent_B, self._target_phrase)
-            chromosome_child = self._natural_selection()
-            chromosome_child.mutate(self._mutation_rate)
+            # chromosome_child = self._natural_selection()
+
+            if self._mutation_rate > 0:
+                chromosome_child.mutate(self._mutation_rate)
             chromosomes.append(chromosome_child)
 
         self._chromosomes = chromosomes     # new population

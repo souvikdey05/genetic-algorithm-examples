@@ -24,7 +24,16 @@ class Chromosome_TSP(Chromosome):
         # get random half from self and the other half from partner
         midpoint = random.randint(0, self._chromosome_size)
 
-        genotypes = self._genotypes[0: midpoint] + partner._genotypes[midpoint: self._chromosome_size]
+        genotypes = self._genotypes[0: midpoint]
+
+        genotypes_values = [g.get_value() for g in genotypes] 
+        
+        for i in range(len(partner._genotypes)):
+            value = partner._genotypes[i].get_value()
+            if value not in genotypes_values:
+                genotypes.append(partner._genotypes[i])
+                genotypes_values.append(value)
+        
         chromosome_child = Chromosome_TSP(genotypes)
 
         return chromosome_child
